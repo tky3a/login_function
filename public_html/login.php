@@ -30,6 +30,7 @@
           <input type="password" name="password" placeholder="password">
         </p>
         <div class="btn">Log In</div>
+        <!-- <p class="fs12"><a href="/signup.php">Sign Up</a> </p> -->
       </form>
     </div>
   </body>
