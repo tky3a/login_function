@@ -18,7 +18,7 @@
   <head>
     <meta charset="utf-8">
     <link rel="stylesheet" href="styles.css">
-    <title></title>
+    <title>login</title>
   </head>
   <body>
     <div class="container">
@@ -30,7 +30,7 @@
           <input type="password" name="password" placeholder="password">
         </p>
         <div class="btn">Log In</div>
-        <!-- <p class="fs12"><a href="/signup.php">Sign Up</a> </p> -->
+        <p class="fs12"><a href="/signup.php">Sign Up</a> </p>
       </form>
     </div>
   </body>

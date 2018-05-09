@@ -34,6 +34,12 @@ input[type=password] {
   opacity: 0.8; /* ポインターした時に色が変化 */
 }
 
-/* .fs12 {
+.fs12 {
   font-size: 12px;
-} */
+}
+
+.err {
+  color: #ff3d00;
+  font-weight: bold;
+  font-size: 13px;
+}
